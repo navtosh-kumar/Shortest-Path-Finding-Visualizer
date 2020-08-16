@@ -1,0 +1,33 @@
+.grid {
+    margin: 100px 0 0;
+  }
+
+.Dijkstra {
+  background-color: rgb(131, 233, 233);
+  border: none;
+  cursor: pointer;
+}
+
+.Astar {
+  background-color: rgb(131, 233, 170);
+  border: none;
+  cursor: pointer;
+}
+
+.BFS {
+  background-color: rgb(223, 233, 131);
+  border: none;
+  cursor: pointer;
+}
+
+.DFS {
+  background-color: rgb(238, 163, 169);
+  border: none;
+  cursor: pointer;
+}
+
+.Reset {
+  background-color: rgb(216, 161, 238);
+  border: none;
+  cursor: pointer;
+}
