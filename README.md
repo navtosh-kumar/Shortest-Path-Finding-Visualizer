@@ -8,13 +8,13 @@
 #### 1. Dijkstra's Algorithm
 ![image](https://user-images.githubusercontent.com/44619905/118291773-9681ac80-b4f5-11eb-9308-b6d095b3453e.png)
 
-#### A* Algorithm
+#### 2. A* Algorithm
 ![image](https://user-images.githubusercontent.com/44619905/118291869-ad280380-b4f5-11eb-9b77-5f4c1a37d820.png)
 
-#### BFS
+#### 3. BFS
 ![image](https://user-images.githubusercontent.com/44619905/118291937-c16c0080-b4f5-11eb-8eb2-803527d69055.png)
 
-#### DFS
+#### 4. DFS
 ![image](https://user-images.githubusercontent.com/44619905/118292003-d21c7680-b4f5-11eb-8309-1cabc842797c.png)
 
 
