@@ -1,6 +1,8 @@
 
 ## Path Finding Visualizer
 
+One of the most popular path finding algorithm is known as the Dijkstra's Shortest Path First algorithm. As a beginner’s step to algorithm and starting to understand how they work I decided to make this visualizer that show in action how the path finding algorithm works in action. The understanding of this algorithm gives you the base idea of how navigation tools are implemented.  In this visualizer I have a grid page that has nodes that helped to pinpoint where to start and the end point. a good understanding of the some path finding algorithm. Futher, I implemented more Algorithms such as A* algorithm, BFS and DFS to see how the path looks in different scenarios.
+
 ![image](https://user-images.githubusercontent.com/44619905/118291599-66d2a480-b4f5-11eb-8c7b-1715e52c7131.png)
 
 ### Path Algorithms
@@ -17,6 +19,7 @@
 #### 4. DFS
 ![image](https://user-images.githubusercontent.com/44619905/118292003-d21c7680-b4f5-11eb-8309-1cabc842797c.png)
 
+The motivation behind this project was to understand how map applications work to finding the destination from one point to another; With that wonder in mind I decided to visualize the path finding algorithm which I thought was close to the way maps works. Starting this project I was expecting to have it be more user friendly for example making the starting and the end node to be able to move around or the user to choose wherever he want it to start and end or even move the end node as the application is executing and make the algorithm figure out where the new position of the end node is located. From now forward that’s what I will be working on to make this application more user friendly.
 
 In the project directory, you can run:
 
