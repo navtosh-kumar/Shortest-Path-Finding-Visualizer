@@ -7,16 +7,20 @@ One of the most popular path finding algorithm is known as the Dijkstra's Shorte
 
 ### Path Algorithms
 
-#### 1. Dijkstra's Algorithm (weighted): "the father of pathfinding algorithms;" find the shortest path between nodes in a graph
+#### 1. Dijkstra's Algorithm (weighted):
+"the father of pathfinding algorithms;" find the shortest path between nodes in a graph
 ![image](https://user-images.githubusercontent.com/44619905/118291773-9681ac80-b4f5-11eb-9308-b6d095b3453e.png)
 
-#### 2. A* Search (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
+#### 2. A* Search (weighted):
+Arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
 ![image](https://user-images.githubusercontent.com/44619905/118291869-ad280380-b4f5-11eb-9b77-5f4c1a37d820.png)
 
-#### 3. Breath-first Search (unweighted): a great algorithm; guarantees the shortest path
+#### 3. Breath-first Search (unweighted): 
+A great algorithm; guarantees the shortest path
 ![image](https://user-images.githubusercontent.com/44619905/118291937-c16c0080-b4f5-11eb-8eb2-803527d69055.png)
 
-#### 4. Depth-first Search (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+#### 4. Depth-first Search (unweighted):
+A very bad algorithm for pathfinding; does not guarantee the shortest path
 ![image](https://user-images.githubusercontent.com/44619905/118292003-d21c7680-b4f5-11eb-8309-1cabc842797c.png)
 
 The motivation behind this project was to understand how map applications work to finding the destination from one point to another; With that wonder in mind I decided to visualize the path finding algorithm which I thought was close to the way maps works. Starting this project I was expecting to have it be more user friendly for example making the starting and the end node to be able to move around or the user to choose wherever he want it to start and end or even move the end node as the application is executing and make the algorithm figure out where the new position of the end node is located. From now forward that’s what I will be working on to make this application more user friendly.
